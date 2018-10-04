@@ -1,5 +1,4 @@
 ### Projects and Ideas
 ***
-
-A collection of projects and ideas that I want to work on.
+I have found my passion for app development, here you will find my recent porjects.
 
